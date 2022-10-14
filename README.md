@@ -1,5 +1,5 @@
 
-<img width="100%" src=".github/screens.gif">
+<img src=".github/screens.gif">
 
 # Indice
 
